@@ -19,6 +19,8 @@ body {
   padding: 20px;
   color: white;
   position: relative;
+  border: 2px solid red;
+  margin: auto;
 }
 .top-container {
   padding: 0 20px;
