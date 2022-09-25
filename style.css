@@ -31,9 +31,19 @@ body {
 
 #DigitalCLOCK {
   font-size: 1.8em;
+  /* border: 2px solid red; */
 }
 img {
   height: 1.6em;
+}
+
+#wifi {
+  color: white;
+}
+
+.status {
+  color: white;
+  font-size: 2rem;
 }
 
 .primary-display {
